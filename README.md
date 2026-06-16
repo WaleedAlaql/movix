@@ -23,11 +23,11 @@ A modern, high-performance Flutter movie application that showcases trending and
 
 ---
 
-## 🛠️ Architecture & Tech Stack
+## Architecture & Tech Stack
 
 This project follows **Clean Software Engineering principles**, separating the data layer, business logic, and UI components to ensure scalability and ease of testing.
 
 * **Framework:** Flutter (Dart)
 * **State Management:** [Riverpod](https://riverpod.dev/) (with modern Code Generation syntax `@riverpod`)
 * **Networking:** HTTP client for robust API communications.
-* **Data Parsing:** Type-safe JSON serialization using automated Dart data models (`factory constructors`).<img width="385"
+* **Data Parsing:** Type-safe JSON serialization using automated Dart data models (`factory constructors`).
