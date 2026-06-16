@@ -17,6 +17,9 @@ A modern, high-performance Flutter movie application that showcases trending and
 
 <img width="390" height="790" alt="Screenshot 1448-01-01 at 4 17 55 PM" src="https://github.com/user-attachments/assets/948caad2-b760-4a5a-9b3b-cdd2a296fe5d" />
 
+<img width="392" height="790" alt="Screenshot 1448-01-01 at 4 20 06 PM" src="https://github.com/user-attachments/assets/24c36983-b17d-425f-b40e-fa809c03e51a" />
+
+
 
 ---
 
